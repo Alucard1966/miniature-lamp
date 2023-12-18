@@ -1,7 +1,9 @@
 # minature-lamp
-## this is an HS 
-### This is H3
+## Sample Project on Pluralsight.Com
+### First GitHub Projects
 
-- List Item 1
-- List item 2
-- list item 3
+- Course Overview
+- An Overview of Git and GitHub
+- Getting Started with GitHub
+- Working With Repositories
+- Collaborating Using the GitHub Flow
