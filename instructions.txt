@@ -2,3 +2,6 @@ Instructions for deploying this site
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 All the instructions would go here.
 Even more data goes here.
+
+This is branch Sample2.branch
+Content will go here.
